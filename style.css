@@ -1,11 +1,16 @@
-body{
+body {
     margin:0px;
     padding: 0px;
     background-color: rgb(255, 25, 25);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-#icon{
+#icon {
     width: 62px;
 }
+
+#links {
+ padding-right: 10px;
+}
+
 
