@@ -4,3 +4,8 @@ body{
     background-color: rgb(255, 25, 25);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+
+#icon{
+    width: 62px;
+}
+
