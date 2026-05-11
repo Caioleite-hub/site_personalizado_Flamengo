@@ -74,7 +74,14 @@ body {
     height: 200px;
 }
 
-
+footer {
+    background-color: rgb(165, 3, 3);
+    padding: 10px;
+    text-align: center;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
 
 
 
