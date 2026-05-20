@@ -61,6 +61,12 @@ body {
     position: fixed;
 }
 
+#jogadores {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-around
+}
+
 .jogador {
     text-align: center;
 }
